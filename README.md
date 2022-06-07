@@ -1,4 +1,4 @@
-# Traveller's Tales : Venture-Beyond
+# Traveler's Tales : Venture-Beyond
 
 ## Description
 
