@@ -274,7 +274,7 @@
 
 [GUI]
 	#If Off, The skills list at the top left corner will no longer appear (You still have the GUI to show you all of your skills info)
-	showSkillsListAtCorner = true
+	showSkillsListAtCorner = false
 	#Should the Xp left indicator always be on? false = only appears with Show GUI key
 	xpLeftDisplayAlwaysOn = false
 	#Should xp drops sync up with the bar being open or closed? HIGHLY RECOMMEND TO KEEP FALSE IF YOU ARE MOVING XP DROP POSITIONS
@@ -282,7 +282,7 @@
 	#Should World Xp Drops Skill appear?
 	worldXpDropsShowSkill = true
 	#True is the animated rainbow, False is the old, plain grey box
-	xpBarTheme = true
+	xpBarTheme = false
 	#How opaque (visible) can the xp drop get?
 	#Range: 0.0 ~ 255.0
 	xpDropMaxOpacity = 200.0

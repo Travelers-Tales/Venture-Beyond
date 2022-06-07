@@ -1507,6 +1507,182 @@
 
 
 
+	[custom_weaponry.dungeons_gear_dancers_sword]
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA
+		weapon_type = "SPEAR"
+		registry_name = "dungeons_gear:dancers_sword"
+		impact = 0.5
+		armor_ignorance = 0.0
+		hit_at_once = 1
+
+	[custom_weaponry.dungeons_gear_battlestaff]
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA
+		weapon_type = "SPEAR"
+		registry_name = "dungeons_gear:battlestaff"
+		impact = 0.5
+		armor_ignorance = 0.0
+		hit_at_once = 1
+
+	[custom_weaponry.dungeons_gear_battlestaff_of_terror]
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA
+		weapon_type = "SPEAR"
+		registry_name = "dungeons_gear:battlestaff_of_terror"
+		impact = 0.5
+		armor_ignorance = 0.0
+		hit_at_once = 1
+
+	[custom_weaponry.dungeons_gear_growing_staff]
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA
+		weapon_type = "SPEAR"
+		registry_name = "dungeons_gear:growing_staff"
+		impact = 0.5
+		armor_ignorance = 0.0
+		hit_at_once = 1
+
+	[custom_weaponry.dungeons_gear_mace]
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA
+		weapon_type = "PICKAXE"
+		registry_name = "dungeons_gear:mace"
+		impact = 0.5
+		armor_ignorance = 0.0
+		hit_at_once = 1
+
+	[custom_weaponry.dungeons_gear_flail]
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA
+		weapon_type = "PICKAXE"
+		registry_name = "dungeons_gear:flail"
+		impact = 0.5
+		armor_ignorance = 0.0
+		hit_at_once = 1
+
+	[custom_weaponry.dungeons_gear_suns_grace]
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA
+		weapon_type = "PICKAXE"
+		registry_name = "dungeons_gear:suns_grace"
+		impact = 0.5
+		armor_ignorance = 0.0
+		hit_at_once = 1
+
+	[custom_weaponry.dungeons_gear_great_hammer]
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA
+		weapon_type = "PICKAXE"
+		registry_name = "dungeons_gear:great_hammer"
+		impact = 0.5
+		armor_ignorance = 0.0
+		hit_at_once = 1
+
+	[custom_weaponry.dungeons_gear_hammer_of_gravity]
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA
+		weapon_type = "PICKAXE"
+		registry_name = "dungeons_gear:hammer_of_gravity"
+		impact = 0.5
+		armor_ignorance = 0.0
+		hit_at_once = 1
+
+	[custom_weaponry.dungeons_gear_stormlander]
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA
+		weapon_type = "PICKAXE"
+		registry_name = "dungeons_gear:stormlander"
+		impact = 0.5
+		armor_ignorance = 0.0
+		hit_at_once = 1
+
+	[custom_weaponry.dungeons_gear_spear]
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA
+		weapon_type = "SPEAR"
+		registry_name = "dungeons_gear:spear"
+		impact = 0.5
+		armor_ignorance = 0.0
+		hit_at_once = 1
+
+	[custom_weaponry.dungeons_gear_fortune_spear]
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA
+		weapon_type = "SPEAR"
+		registry_name = "dungeons_gear:fortune_spear"
+		impact = 0.5
+		armor_ignorance = 0.0
+		hit_at_once = 1
+
+	[custom_weaponry.dungeons_gear_whispering_spear]
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA
+		weapon_type = "SPEAR"
+		registry_name = "dungeons_gear:whispering_spear"
+		impact = 0.5
+		armor_ignorance = 0.0
+		hit_at_once = 1
+
+	[custom_weaponry.dungeons_gear_glaive]
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA
+		weapon_type = "SPEAR"
+		registry_name = "dungeons_gear:glaive"
+		impact = 0.5
+		armor_ignorance = 0.0
+		hit_at_once = 1
+
+	[custom_weaponry.dungeons_gear_grave_bane]
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA
+		weapon_type = "SPEAR"
+		registry_name = "dungeons_gear:grave_bane"
+		impact = 0.5
+		armor_ignorance = 0.0
+		hit_at_once = 1
+
+	[custom_weaponry.dungeons_gear_venom_glaive]
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA
+		weapon_type = "SPEAR"
+		registry_name = "dungeons_gear:venom_glaive"
+		impact = 0.5
+		armor_ignorance = 0.0
+		hit_at_once = 1
+
+	[custom_weaponry.dungeons_gear_whip]
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA
+		weapon_type = "AXE"
+		registry_name = "dungeons_gear:whip"
+		impact = 0.5
+		armor_ignorance = 0.0
+		hit_at_once = 1
+
+	[custom_weaponry.dungeons_gear_vine_whip]
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA
+		weapon_type = "AXE"
+		registry_name = "dungeons_gear:vine_whip"
+		impact = 0.5
+		armor_ignorance = 0.0
+		hit_at_once = 1
+
+	[custom_weaponry.dungeons_gear_boneclub]
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA
+		weapon_type = "PICKAXE"
+		registry_name = "dungeons_gear:boneclub"
+		impact = 0.5
+		armor_ignorance = 0.0
+		hit_at_once = 1
+
+	[custom_weaponry.dungeons_gear_bone_cudgel]
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA
+		weapon_type = "PICKAXE"
+		registry_name = "dungeons_gear:bone_cudgel"
+		impact = 0.5
+		armor_ignorance = 0.0
+		hit_at_once = 1
+
+	[custom_weaponry.dungeons_gear_anchor]
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA
+		weapon_type = "PICKAXE"
+		registry_name = "dungeons_gear:anchor"
+		impact = 0.5
+		armor_ignorance = 0.0
+		hit_at_once = 1
+
+	[custom_weaponry.dungeons_gear_encrusted_anchor]
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA
+		weapon_type = "PICKAXE"
+		registry_name = "dungeons_gear:encrusted_anchor"
+		impact = 0.5
+		armor_ignorance = 0.0
+		hit_at_once = 1
+
 	[custom_weaponry.mowziesmobs_naga_fang_dagger]
 		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA
 		weapon_type = "SWORD"
