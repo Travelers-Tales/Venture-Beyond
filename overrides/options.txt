@@ -118,11 +118,16 @@ key_key.carry.desc:key.keyboard.left.shift
 key_key.toggleLiquids:key.keyboard.unknown
 key_key.toggleVisible:key.keyboard.unknown
 key_key.entityculling.toggle:key.keyboard.unknown
+key_key.preciseblockplacing.toggle_new_location:key.keyboard.unknown
+key_key.preciseblockplacing.toggle_enabled:key.keyboard.unknown
 key_Show comparison tooltip:key.keyboard.left.shift
 key_key.schoolsofmagic.spell:key.keyboard.y
 key_key.curios.open.desc:key.keyboard.g
 key_key.spartanweaponry.access_quiver:key.keyboard.i
 key_key.botania_corporea_request:key.keyboard.c
+key_key.ftbquests.quests:key.keyboard.unknown
+key_key.moreoverlays.lightoverlay.desc:key.keyboard.f7
+key_key.moreoverlays.chunkbounds.desc:key.keyboard.f9
 key_key.pmmo.showBar:key.keyboard.tab
 key_key.pmmo.showList:key.keyboard.left.alt
 key_key.pmmo.toggleTooltip:key.keyboard.f6
@@ -131,9 +136,6 @@ key_key.pmmo.openMenu:key.keyboard.p
 key_key.pmmo.openSettings:key.keyboard.unknown
 key_key.pmmo.openSkills:key.keyboard.unknown
 key_key.pmmo.openGlossary:key.keyboard.unknown
-key_key.ftbquests.quests:key.keyboard.unknown
-key_key.moreoverlays.lightoverlay.desc:key.keyboard.f7
-key_key.moreoverlays.chunkbounds.desc:key.keyboard.f9
 key_key.ship_sail:key.keyboard.r
 key_key.ship_inventory:key.keyboard.i
 key_key.lower_ship_sail:key.keyboard.j
@@ -141,7 +143,14 @@ key_key.higher_ship_sail:key.keyboard.k
 key_key.invtweaks_sort_player.desc:key.keyboard.backslash
 key_key.invtweaks_sort_inventory.desc:key.keyboard.grave.accent
 key_key.invtweaks_sort_either.desc:key.mouse.middle
+key_keys.nyfsquiver.nextslot:key.keyboard.right.bracket
+key_keys.nyfsquiver.previousslot:key.keyboard.left.bracket
+key_keys.nyfsquiver.openquiver:key.keyboard.b
 key_key.storagenetwork.remote:key.keyboard.i
+key_key.drawMahoujin:key.keyboard.m
+key_key.changeMysticCode:key.keyboard.y
+key_key.settingsGUI:key.keyboard.period
+key_key.selectiveDisplacement:key.keyboard.h
 key_key.toastcontrol.clear:key.keyboard.j
 key_sndctrl.text.quickvolumemenu.open:key.keyboard.v:CONTROL
 key_sndctrl.text.soundconfig.open:key.keyboard.i:CONTROL
@@ -153,19 +162,16 @@ key_Camera up:key.keyboard.page.up
 key_Camera down:key.keyboard.page.down
 key_Swap shoulder:key.keyboard.o
 key_Toggle perspective:key.keyboard.unknown
-key_key.drawMahoujin:key.keyboard.m
-key_key.changeMysticCode:key.keyboard.y
-key_key.settingsGUI:key.keyboard.period
-key_key.selectiveDisplacement:key.keyboard.h
-key_quark.keybind.camera_mode:key.keyboard.f12
-key_quark.keybind.autorun:key.keyboard.unknown
+key_key.epicfight.show_tooltip:key.keyboard.p
+key_key.epicfight.switch_mode:key.keyboard.r
+key_key.epicfight.dodge:key.keyboard.left.shift
 key_quark.keybind.transfer_insert:key.keyboard.unknown
 key_quark.keybind.transfer_extract:key.keyboard.unknown
 key_quark.keybind.shift_lock:key.keyboard.unknown
-key_quark.keybind.lock_rotation:key.keyboard.k
 key_quark.keybind.sort_player:key.keyboard.unknown
 key_quark.keybind.sort_container:key.keyboard.unknown
 key_quark.keybind.back:key.mouse.4
+key_quark.keybind.change_hotbar:key.keyboard.z
 key_quark.emote.no:key.keyboard.unknown
 key_quark.emote.yes:key.keyboard.unknown
 key_quark.emote.wave:key.keyboard.unknown
@@ -184,10 +190,9 @@ key_quark.keybind.patreon_emote.dab:key.keyboard.unknown
 key_quark.keybind.patreon_emote.jet:key.keyboard.unknown
 key_quark.keybind.patreon_emote.exorcist:key.keyboard.unknown
 key_quark.keybind.patreon_emote.zombie:key.keyboard.unknown
-key_key.epicfight.show_tooltip:key.keyboard.p
-key_key.epicfight.switch_mode:key.keyboard.r
-key_key.epicfight.dodge:key.keyboard.left.shift
-key_quark.keybind.change_hotbar:key.keyboard.z
+key_quark.keybind.autorun:key.keyboard.unknown
+key_quark.keybind.camera_mode:key.keyboard.f12
+key_quark.keybind.lock_rotation:key.keyboard.k
 key_key.dannys_expansion.mount_ability:key.keyboard.g
 key_keybind.sophisticatedbackpacks.open_backpack:key.keyboard.b
 key_keybind.sophisticatedbackpacks.inventory_interaction:key.keyboard.c
@@ -226,6 +231,10 @@ key_key.jei.previousCategory:key.keyboard.page.up:SHIFT
 key_key.jei.nextCategory:key.keyboard.page.down:SHIFT
 key_key.jei.bookmark:key.keyboard.a
 key_key.jei.toggleBookmarkOverlay:key.keyboard.unknown
+key_key.toolbelt.open:key.keyboard.r
+key_key.toolbelt.cycle.left:key.keyboard.unknown
+key_key.toolbelt.cycle.right:key.keyboard.unknown
+key_key.toolbelt.slot:key.keyboard.v
 soundCategory_master:0.38327813
 soundCategory_music:0.0
 soundCategory_record:1.0

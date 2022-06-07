@@ -11,17 +11,12 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "Traveller's Tales Venture Beyond",
-  "version": "0.2.0-alpha",
+  "version": "0.3.0-alpha",
   "author": "",
   "files": [
     {
       "projectID": 344787,
       "fileID": 3728697,
-      "required": true
-    },
-    {
-      "projectID": 336432,
-      "fileID": 3296719,
       "required": true
     },
     {
@@ -255,11 +250,6 @@
       "required": true
     },
     {
-      "projectID": 229061,
-      "fileID": 3802780,
-      "required": true
-    },
-    {
       "projectID": 405076,
       "fileID": 3261981,
       "required": true
@@ -268,6 +258,11 @@
       "projectID": 272515,
       "fileID": 3404330,
       "required": true
+    },
+    {
+      "projectID": 260262,
+      "fileID": 3696855,
+      "required": false
     },
     {
       "projectID": 502561,
@@ -417,7 +412,7 @@
     {
       "projectID": 265917,
       "fileID": 3808959,
-      "required": true
+      "required": false
     },
     {
       "projectID": 309927,
@@ -477,6 +472,11 @@
     {
       "projectID": 284324,
       "fileID": 3543338,
+      "required": true
+    },
+    {
+      "projectID": 407981,
+      "fileID": 3353974,
       "required": true
     },
     {
@@ -625,6 +625,11 @@
       "required": true
     },
     {
+      "projectID": 248787,
+      "fileID": 3686480,
+      "required": true
+    },
+    {
       "projectID": 531188,
       "fileID": 3540954,
       "required": true
@@ -638,6 +643,11 @@
       "projectID": 398623,
       "fileID": 3438815,
       "required": true
+    },
+    {
+      "projectID": 482731,
+      "fileID": 3601154,
+      "required": false
     },
     {
       "projectID": 425918,
@@ -707,11 +717,6 @@
     {
       "projectID": 314002,
       "fileID": 3055679,
-      "required": true
-    },
-    {
-      "projectID": 433760,
-      "fileID": 3296039,
       "required": true
     },
     {
@@ -815,6 +820,11 @@
       "required": true
     },
     {
+      "projectID": 394281,
+      "fileID": 3057874,
+      "required": true
+    },
+    {
       "projectID": 250577,
       "fileID": 3190372,
       "required": true
@@ -887,6 +897,11 @@
     {
       "projectID": 342543,
       "fileID": 3808852,
+      "required": true
+    },
+    {
+      "projectID": 222789,
+      "fileID": 3039955,
       "required": true
     },
     {
