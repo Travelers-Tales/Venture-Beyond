@@ -1,8 +1,8 @@
-# Traveller's Tales : Venture-Beyond
+# Traveler's Tales : Venture-Beyond
 
 ## Description
 
-Traveller's Tales aims to provide an rpg experience following a medieval theme
+Traveler's Tales aims to provide an rpg experience following a medieval theme
 
 ### Features
 
