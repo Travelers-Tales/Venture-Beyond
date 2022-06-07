@@ -2,7 +2,7 @@
 
 ## Description
 
-Traveller's Tales aims to provide an rpg experience following a medieval theme
+Traveler's Tales aims to provide an rpg experience following a medieval theme
 
 ### Features
 
@@ -25,4 +25,4 @@ Traveller's Tales aims to provide an rpg experience following a medieval theme
 
 ## Links
 
-[![curseforge](https://img.shields.io/badge/curseforge-143?style=for-the-badge&logo=curseforge&logoColor=black&color=black&labelColor=orange&link=https://www.curseforge.com/minecraft/modpacks/travellers-tales-venture-beyond)](https://www.curseforge.com/minecraft/modpacks/travellers-tales-venture-beyond)
+[![curseforge](https://img.shields.io/badge/curseforge-143?style=for-the-badge&logo=curseforge&logoColor=black&color=black&labelColor=orange&link=https://www.curseforge.com/minecraft/modpacks/travelers-tales-venture-beyond)](https://www.curseforge.com/minecraft/modpacks/travellers-tales-venture-beyond)
