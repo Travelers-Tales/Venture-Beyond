@@ -33,7 +33,7 @@ graphicsMode:1
 ao:2
 biomeBlendRadius:7
 renderClouds:true
-resourcePacks:[]
+resourcePacks:["vanilla","mod_resources"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
@@ -110,10 +110,10 @@ key_key.narrator:key.keyboard.b:CONTROL
 key_key.pause:key.keyboard.escape
 key_key.gui:key.keyboard.f1
 key_key.debugInfo:key.keyboard.f3
-key_key.enchdesc.show:key.keyboard.left.shift
 key_key.ftbchunks.map:key.keyboard.semicolon
 key_key.ftbchunks.minimap.zoomIn:key.keyboard.equal
 key_key.ftbchunks.minimap.zoomOut:key.keyboard.minus
+key_key.enchdesc.show:key.keyboard.left.shift
 key_key.carry.desc:key.keyboard.left.shift
 key_key.toggleLiquids:key.keyboard.unknown
 key_key.toggleVisible:key.keyboard.unknown
@@ -153,12 +153,12 @@ key_key.changeMysticCode:key.keyboard.y
 key_key.settingsGUI:key.keyboard.period
 key_key.selectiveDisplacement:key.keyboard.h
 key_key.toastcontrol.clear:key.keyboard.j
-key_sndctrl.text.quickvolumemenu.open:key.keyboard.v:CONTROL
-key_sndctrl.text.soundconfig.open:key.keyboard.i:CONTROL
 key_key.ars_nouveau.open_book:key.keyboard.c
 key_key.ars_nouveau.selection_hud:key.keyboard.v
 key_key.ars_nouveau.previous_slot:key.keyboard.z
 key_key.ars_nouveau.next_slot:key.keyboard.x
+key_sndctrl.text.quickvolumemenu.open:key.keyboard.v:CONTROL
+key_sndctrl.text.soundconfig.open:key.keyboard.i:CONTROL
 key_Camera left:key.keyboard.left
 key_Camera right:key.keyboard.right
 key_Camera closer:key.keyboard.up
@@ -212,10 +212,10 @@ key_key.jei.previousCategory:key.keyboard.page.up:SHIFT
 key_key.jei.nextCategory:key.keyboard.page.down:SHIFT
 key_key.jei.bookmark:key.keyboard.a
 key_key.jei.toggleBookmarkOverlay:key.keyboard.unknown
-key_key.toolbelt.open:key.keyboard.r
+key_key.toolbelt.open:key.keyboard.f
 key_key.toolbelt.cycle.left:key.keyboard.unknown
 key_key.toolbelt.cycle.right:key.keyboard.unknown
-key_key.toolbelt.slot:key.keyboard.v
+key_key.toolbelt.slot:key.keyboard.unknown
 soundCategory_master:0.38327813
 soundCategory_music:0.0
 soundCategory_record:1.0

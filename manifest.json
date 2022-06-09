@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "Traveler's Tales Venture Beyond",
-  "version": "0.4.0-alpha",
+  "version": "0.5.0-beta",
   "author": "",
   "files": [
     {
@@ -385,6 +385,11 @@
       "required": true
     },
     {
+      "projectID": 416294,
+      "fileID": 3525704,
+      "required": true
+    },
+    {
       "projectID": 274259,
       "fileID": 3579466,
       "required": true
@@ -457,6 +462,11 @@
     {
       "projectID": 233071,
       "fileID": 3330406,
+      "required": true
+    },
+    {
+      "projectID": 238086,
+      "fileID": 3647098,
       "required": true
     },
     {
