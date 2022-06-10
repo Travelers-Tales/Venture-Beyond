@@ -1,2 +1,0 @@
-mipmapLevels:2
-autoJump:false
