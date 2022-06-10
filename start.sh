@@ -1,0 +1,1 @@
+java -Xmx5G -Xms512M -jar forge-1.16.5-36.2.35.jar nogui

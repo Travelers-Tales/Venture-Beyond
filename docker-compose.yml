@@ -1,0 +1,15 @@
+version: "3"
+
+services:
+  minecraft:
+    container_name: minecraft_travelers_tales_venture_beyond_serverfiles_test_1.16.5
+    image: itzg/minecraft-server:java8
+    ports:
+      - 25565:25565
+    volumes:
+      - ./:/data:rw
+    env_file:
+      - ./.env
+    tty: true
+    stdin_open: true
+    restart: unless-stopped

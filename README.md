@@ -1,24 +1,24 @@
-# Traveler's Tales : Venture-Beyond
+# Server setup instructions
 
-## Description
+## Prerequisites
+- Have Java 8 installed
 
-Traveler's Tales aims to provide an rpg experience following a medieval theme
+## Two ways to start your server
 
-### Features
+1. ### Executing it manually
+    - If you're on Windows, execute `start.bat` file. For Linux Users execute `start.sh`
+    - Accept the EULA in the EULA.txt file
+    - Execute `start.bat` or `start.sh` again and your server should start
+    
+2. ### Using Docker Compose 
+    - First you'll need to accept the EULA in the .env file
+    - Make sure you are ok with the parameters specified in the .env file
+    - open a command prompt and execute the following commands :
+        ```bash
+        cd into/this/directory/if/needed
+        ```
+        ```bash
+        docker-compose up -d
+        ```
 
-- Combat will never be the same with the EpicFight mod. You'll have to time your attacks and dodges as well as find the weapon type that suits you to slay your foes
-- Training will be key to master the skills you might need like combat, woodcutting, mining and so on. Each skill granting related bonuses
--  Magic is in here ! Mods like Mahou Tsukai, Ars Nouveau, Schools of Magic: Second Semester and Botania will make the adventure much more... well... magic.
-- Explore a world filled with friendly encounters, and others who will only get you good old punches in the face. A lot of structures to explore, loot and exploit, wildlife to meet, as well as beautiful caves
-- Many quality-of-life improvments like double door opening, healing campfires, inventory sorting, backpacks, sleeping bags and much more
-
-## Install instructions
-
-1. Dowload the source
-2. Open CurseForge -> Create Custom Profile -> import
-3. select the previously downloaded folder
-4. That's it, CurseForge will setup everything for you
-
-## Links
-
-[![curseforge](https://img.shields.io/badge/curseforge-143?style=for-the-badge&logo=curseforge&logoColor=black&color=black&labelColor=orange&link=https://www.curseforge.com/minecraft/modpacks/travellers-tales-venture-beyond)](https://www.curseforge.com/minecraft/modpacks/travellers-tales-venture-beyond)
+That's it !
